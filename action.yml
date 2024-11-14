@@ -1,5 +1,5 @@
-name: 'Setup Anchor'
-description: 'Install Anchor, Solana CLI tools, and Node.js.'
+name: 'Setup Anchor and Anza Solana CLI'
+description: 'Install Anchor, Anza Solana CLI tools, and Node.js.'
 branding:
   icon: anchor
   color: blue
