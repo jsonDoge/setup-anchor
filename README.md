@@ -4,6 +4,10 @@ An optimized action for installing [Anchor](https://www.anchor-lang.com/).
 
 If you just need Solana (without Anchor), you should also check out [Setup Solana](https://github.com/metaDAOproject/setup-solana).
 
+Modified [setup-anchor](https://github.com/metaDAOproject/setup-anchor):
+- Bumped versions node.js and solana-cli
+- Swapped to using anza.xyz endpoint for solana-cli install
+
 # Usage
 
 Here's an example workflow:
